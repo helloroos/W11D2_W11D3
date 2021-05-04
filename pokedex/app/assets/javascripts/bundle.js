@@ -125,7 +125,6 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
- // import { RECEIVE_ALL_POKEMON } from './actions/pokemon_actions';
 
 document.addEventListener('DOMContentLoaded', function () {
   var root = document.getElementById('root'); // const store = configureStore();
