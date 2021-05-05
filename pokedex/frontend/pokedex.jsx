@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const root = document.getElementById('root');
     const store = configureStore();
 
-    ReactDOM.render(<h1>Placeholder</h1>, root);
+    ReactDOM.render(<h1>React is working</h1>, root);
 
     window.receiveAllPokemon = receiveAllPokemon;
     window.fetchAllPokemon = fetchAllPokemon;
